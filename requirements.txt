@@ -1,0 +1,4 @@
+```
+diff_match_patch>=20231128
+PyYAML>=6.0
+```
